@@ -1,5 +1,3 @@
-Here’s a suitable `README.md` file for your project on Pascal's Triangle:
-
 ```markdown
 # Pascal's Triangle
 
