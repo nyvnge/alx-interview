@@ -1,4 +1,3 @@
-```markdown
 # Pascal's Triangle
 
 ## Description
